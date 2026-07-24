@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect x="16" y="16" width="32" height="32" rx="4" transform="rotate(45 32 32)" fill="hsl(277, 70%, 45%)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>부산 서핑 투어</title>
+  <rect width="64" height="64" rx="14" fill="hsl(184 44% 28%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(325 68% 63%)" opacity="0.16"/>
+  <g transform="rotate(90 32 32)"><path d="M32 14 52 48H12Z" fill="none" stroke="hsl(184 24% 96%)" stroke-width="6" stroke-linejoin="round"/><path d="M32 30 41 46H23Z" fill="hsl(325 68% 63%)"/></g>
+</svg>
